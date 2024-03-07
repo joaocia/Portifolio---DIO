@@ -48,15 +48,31 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Criação de uma página para apresentação de portfólio",
+        "url": "https://github.com/joaocia/Portifolio---DIO",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Criação de uma PokeDex, consumindo um API real, usando os conchecimentos de HTLM, CSS e JavaScript",
+        "url": "https://github.com/joaocia/POKEDEX",
+        "github": true
+      },
+      {
+        "name": "Criação de um Sistema ToDo",
+        "url": "https://github.com/joaocia/ProjetoToDO",
+        "github": true
+      },
+      {
+        "name": "Projeto de um Jogo Clássico de Ping-Pong, utilizando os conceitos de Lógica de Programação, HTML5 e Princípios de Javascript",
+        "url": "https://github.com/joaocia/Projeto-Ping-Pong",
+        "github": true
+      },
+      {
+        "name": "Projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo",
+        "url": "https://github.com/joaocia/TIME-MACHINE---NLW",
         "github": true
       }
+
     ],
     "professionalExperience": [
       {
