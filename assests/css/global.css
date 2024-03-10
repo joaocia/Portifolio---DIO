@@ -29,7 +29,7 @@ a:hover {
 
 .main::before {
     content: '';
-    background-image: url(/assests/img/background-top.svg);
+    background-image: url(../img/background-top.svg);
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
@@ -44,7 +44,7 @@ a:hover {
 
 .main::after {
     content: '';
-    background-image: url(/assests/img/background-top.svg);
+    background-image: url(../img/background-top.svg);
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
