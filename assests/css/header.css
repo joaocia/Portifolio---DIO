@@ -42,19 +42,19 @@
 }
 
 .information .profile::before {
-    background-image: url(/assests/img/icons/profile.svg);
+    background-image: url(assests/img/icons/profile.svg);
 }
 
 .information .location::before {
-    background-image: url(/assests/img/icons/location.svg);
+    background-image: url(assests/img/icons/location.svg);
 }
 
 .information .whatsapp::before {
-    background-image: url(/assests/img/icons/whatsapp.svg);
+    background-image: url(assests/img/icons/whatsapp.svg);
 }
 
 .information .mail::before {
-    background-image: url(/assests/img/icons/mail.svg);
+    background-image: url(assests/img/icons/mail.svg);
 }
 
 @media only screen and  (min-width: 768px) {
